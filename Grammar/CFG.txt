@@ -1,0 +1,2 @@
+Terminal:
+! # % ( ) * + - , / : < = > . [ ] _ { } ' " let true false if elif else return throw case switch default for while try catch finally continue null const var function;
