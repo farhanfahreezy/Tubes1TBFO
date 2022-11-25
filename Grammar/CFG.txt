@@ -91,7 +91,7 @@ FUNCTIONS -> function
 BREAKS -> break;
 COMMENTS -> / /;
 COMMENTMLO -> / *;
-COMMENTMLC -> */;
+COMMENTMLC -> * /;
 SERU -> !;
 HASHTAG -> #;
 MOD -> %;
