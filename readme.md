@@ -12,3 +12,5 @@ Dibutuhkan grammar bahasa dan algoritma parser untuk melakukan parsing. Sudah sa
 3. Ketik "python CFGtoCNF.py" pada terminal
 4. Masukkan program JavaScript yang dicek pada file test.js
 5. Ketik "python main.py test.js" pada terminal
+## Informasi Tambahan
+Release untuk tubes adalah release dengan tags v1.0
