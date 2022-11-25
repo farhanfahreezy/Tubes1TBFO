@@ -27,7 +27,7 @@ print("========================================================")
 for x in table:
     print(x)
 
-if (cyk.checkValidity(table, "S")):
+if (cyk.checkValidity(table, "SS")):
     print("Verdict accepted! Compile success!")
 else:
     print("Compile error, wrong syntax!")

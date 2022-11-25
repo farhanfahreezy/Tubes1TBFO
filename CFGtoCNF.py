@@ -139,7 +139,7 @@ def convertToMap (Production):
 
 if __name__ == '__main__':
 
-	modelPath = './Grammar/CFG.txt'
+	modelPath = './Grammar/CFGcopy.txt'
 	
 	K, V, Productions = helper.loadModel( modelPath )
 
